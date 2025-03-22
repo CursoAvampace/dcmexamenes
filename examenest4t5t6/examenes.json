@@ -1,0 +1,1111 @@
+{
+  "examenes": [
+    {
+      "titulo": "Examen 1: Psicomotricidad y Desarrollo Infantil",
+      "preguntas": [
+        {
+          "numero": 1,
+          "pregunta": "¿Cuál fue el primer autor en utilizar el término 'psicomotricidad' en el ámbito científico?",
+          "opciones": {
+            "a": "Wallon",
+            "b": "Lapierre",
+            "c": "Ajuriaguerra",
+            "d": "Dupré"
+          }
+        },
+        {
+          "numero": 2,
+          "pregunta": "¿Qué modelo de psicomotricidad enfatiza el juego libre y la espontaneidad en el desarrollo del niño?",
+          "opciones": {
+            "a": "Psicomotricidad instrumental",
+            "b": "Psicomotricidad relacional",
+            "c": "Reeducación psicomotriz",
+            "d": "Modelo conductista"
+          }
+        },
+        {
+          "numero": 3,
+          "pregunta": "Según las investigaciones, ¿cómo se relaciona el desarrollo motor con el desarrollo cognitivo?",
+          "opciones": {
+            "a": "No existe relación",
+            "b": "El desarrollo cognitivo es independiente",
+            "c": "El desarrollo motor favorece el desarrollo cognitivo",
+            "d": "El desarrollo motor inhibe el desarrollo cognitivo"
+          }
+        },
+        {
+          "numero": 4,
+          "pregunta": "¿Cuál es la aportación principal de Wallon en el estudio de la psicomotricidad?",
+          "opciones": {
+            "a": "La integración de los procesos motrices y afectivos",
+            "b": "La identificación de etapas motoras secuenciales",
+            "c": "La introducción del juego libre",
+            "d": "La sistematización de ejercicios físicos"
+          }
+        },
+        {
+          "numero": 5,
+          "pregunta": "En la intervención psicomotriz, ¿cuál es la importancia del esquema corporal?",
+          "opciones": {
+            "a": "Solo mejora la coordinación",
+            "b": "Es esencial para la identidad y la representación corporal",
+            "c": "No tiene relevancia",
+            "d": "Solo beneficia el aspecto motor"
+          }
+        },
+        {
+          "numero": 6,
+          "pregunta": "Durante la evolución histórica de la psicomotricidad en Francia, ¿cuál fue el periodo clave de consolidación de modelos diferenciados?",
+          "opciones": {
+            "a": "1900-1920",
+            "b": "1920-1950",
+            "c": "1950-actualidad",
+            "d": "Posterior a 2000"
+          }
+        },
+        {
+          "numero": 7,
+          "pregunta": "El modelo relacional de psicomotricidad, defendido por Lapierre, se fundamenta en:",
+          "opciones": {
+            "a": "Ejercicios estructurados",
+            "b": "Juego libre y expresividad",
+            "c": "Técnicas de relajación",
+            "d": "Reeducación forzada"
+          }
+        },
+        {
+          "numero": 8,
+          "pregunta": "En cuanto a la metodología de intervención, ¿cuál es la principal diferencia entre un enfoque directivo y uno no directivo?",
+          "opciones": {
+            "a": "La planificación",
+            "b": "La flexibilidad en la intervención",
+            "c": "La imposición de tareas",
+            "d": "La evaluación externa"
+          }
+        },
+        {
+          "numero": 9,
+          "pregunta": "La integración de la dimensión afectiva en la psicomotricidad se fundamenta en:",
+          "opciones": {
+            "a": "El refuerzo positivo",
+            "b": "La comunicación simbólica",
+            "c": "La repetición mecánica",
+            "d": "La imitación"
+          }
+        },
+        {
+          "numero": 10,
+          "pregunta": "¿Qué papel juega el lenguaje en la intervención psicomotriz según García Núñez?",
+          "opciones": {
+            "a": "Es irrelevante",
+            "b": "Es fundamental para el desarrollo integral",
+            "c": "Solo se usa para instrucciones",
+            "d": "Limita el movimiento"
+          }
+        },
+        {
+          "numero": 11,
+          "pregunta": "Las aportaciones empíricas sobre psicomotricidad evidencian que el movimiento favorece la adquisición de habilidades cognitivas. ¿Con qué frase se resume este hallazgo?",
+          "opciones": {
+            "a": "Mens sana in corpore sano",
+            "b": "El movimiento es puro azar",
+            "c": "La motricidad y la cognición son independientes",
+            "d": "El cuerpo inhibe la mente"
+          }
+        },
+        {
+          "numero": 12,
+          "pregunta": "La influencia de la cultura en la psicomotricidad se refleja en:",
+          "opciones": {
+            "a": "La estandarización de programas",
+            "b": "La adaptación de actividades a contextos socio-culturales",
+            "c": "La uniformidad de intervenciones",
+            "d": "La eliminación de diferencias individuales"
+          }
+        },
+        {
+          "numero": 13,
+          "pregunta": "Según la perspectiva integradora, la psicomotricidad aborda la totalidad del ser humano a través de:",
+          "opciones": {
+            "a": "Solo la dimensión física",
+            "b": "La integración de lo motor, cognitivo, afectivo y simbólico",
+            "c": "Exclusivamente procesos cognitivos",
+            "d": "Únicamente la coordinación"
+          }
+        },
+        {
+          "numero": 14,
+          "pregunta": "El rol del educador en la mediación de la intervención psicomotriz implica:",
+          "opciones": {
+            "a": "Impartir instrucciones sin flexibilidad",
+            "b": "Facilitar la exploración y el juego",
+            "c": "Controlar estrictamente todas las actividades",
+            "d": "Ignorar el contexto individual"
+          }
+        },
+        {
+          "numero": 15,
+          "pregunta": "Una planificación efectiva en actividades psicomotrices debe considerar:",
+          "opciones": {
+            "a": "Únicamente los objetivos físicos",
+            "b": "La diversidad de procesos y contextos",
+            "c": "La imposición de una única metodología",
+            "d": "La reducción de la espontaneidad"
+          }
+        },
+        {
+          "numero": 16,
+          "pregunta": "La relación afectiva entre el educador y el alumno es crucial en la psicomotricidad porque:",
+          "opciones": {
+            "a": "Genera dependencia",
+            "b": "Favorece un ambiente de seguridad para la exploración",
+            "c": "No influye en el desarrollo",
+            "d": "Limita la creatividad"
+          }
+        },
+        {
+          "numero": 17,
+          "pregunta": "Entre los enfoques teóricos, ¿cuál contrasta la perspectiva mecanicista con la relacional?",
+          "opciones": {
+            "a": "La psicodinámica",
+            "b": "La teoría conductista",
+            "c": "El modelo instrumental vs. relacional",
+            "d": "La teoría constructivista"
+          }
+        },
+        {
+          "numero": 18,
+          "pregunta": "La teoría del desarrollo integral sostiene que el aprendizaje significativo se produce cuando:",
+          "opciones": {
+            "a": "Se imponen rutinas rígidas",
+            "b": "Se conectan nuevas experiencias con conocimientos previos",
+            "c": "Se evita el error",
+            "d": "Se prioriza el contenido teórico"
+          }
+        },
+        {
+          "numero": 19,
+          "pregunta": "La utilización de recursos didácticos variados en psicomotricidad es esencial para:",
+          "opciones": {
+            "a": "Repetir ejercicios",
+            "b": "Adaptar las actividades a las necesidades individuales",
+            "c": "Minimizar el esfuerzo",
+            "d": "Estandarizar la enseñanza"
+          }
+        },
+        {
+          "numero": 20,
+          "pregunta": "La interrelación entre la dimensión motora y la simbólica en la psicomotricidad se evidencia en:",
+          "opciones": {
+            "a": "La copia de movimientos sin significado",
+            "b": "La expresión creativa a través del movimiento",
+            "c": "La memorización de secuencias",
+            "d": "La ejecución mecánica de tareas"
+          }
+        },
+        {
+          "numero": 21,
+          "pregunta": "Estudios recientes demuestran que una intervención psicomotriz bien estructurada puede:",
+          "opciones": {
+            "a": "Mejorar la coordinación y la resolución de problemas",
+            "b": "Limitar la expresión individual",
+            "c": "Reducir la actividad social",
+            "d": "Inhibir el desarrollo cognitivo"
+          }
+        },
+        {
+          "numero": 22,
+          "pregunta": "La evaluación de la intervención psicomotriz se realiza de forma continua para:",
+          "opciones": {
+            "a": "Corregir errores post intervención",
+            "b": "Ajustar las estrategias educativas en función de los progresos",
+            "c": "Eliminar actividades lúdicas",
+            "d": "Estandarizar el aprendizaje"
+          }
+        },
+        {
+          "numero": 23,
+          "pregunta": "El enfoque intersectorial en la educación infantil implica la colaboración entre:",
+          "opciones": {
+            "a": "Solo el profesorado",
+            "b": "Familia, profesorado y profesionales especializados",
+            "c": "Únicamente los padres",
+            "d": "Únicamente la dirección del centro"
+          }
+        },
+        {
+          "numero": 24,
+          "pregunta": "El juego libre en la psicomotricidad potencia la creatividad al permitir:",
+          "opciones": {
+            "a": "La repetición de métodos fijos",
+            "b": "La exploración sin restricciones",
+            "c": "La limitación del movimiento",
+            "d": "La concentración en tareas mecánicas"
+          }
+        },
+        {
+          "numero": 25,
+          "pregunta": "La percepción del movimiento está influenciada por factores culturales, lo que se traduce en:",
+          "opciones": {
+            "a": "Una interpretación homogénea",
+            "b": "Diversas expresiones simbólicas",
+            "c": "Una incapacidad de adaptación",
+            "d": "Un rechazo a la intervención"
+          }
+        },
+        {
+          "numero": 26,
+          "pregunta": "El análisis de casos prácticos en psicomotricidad es fundamental para:",
+          "opciones": {
+            "a": "Aplicar soluciones estandarizadas",
+            "b": "Comprender la variabilidad y contextualizar intervenciones",
+            "c": "Reducir el carácter experimental",
+            "d": "Evitar la integración de nuevos enfoques"
+          }
+        },
+        {
+          "numero": 27,
+          "pregunta": "El feedback en el aprendizaje motriz es crucial porque:",
+          "opciones": {
+            "a": "Permite la corrección inmediata y la adaptación de estrategias",
+            "b": "Disminuye la motivación",
+            "c": "Genera dependencia",
+            "d": "Es irrelevante en el proceso educativo"
+          }
+        },
+        {
+          "numero": 28,
+          "pregunta": "Entre los desafíos actuales en la investigación de la psicomotricidad se encuentra:",
+          "opciones": {
+            "a": "La sobreestimación de resultados cuantitativos",
+            "b": "La integración de metodologías cualitativas y cuantitativas",
+            "c": "La eliminación de la variabilidad individual",
+            "d": "La limitación a contextos terapéuticos"
+          }
+        },
+        {
+          "numero": 29,
+          "pregunta": "La aplicación de la psicomotricidad en contextos no terapéuticos demuestra que:",
+          "opciones": {
+            "a": "Solo es viable en el ámbito escolar",
+            "b": "Contribuye al desarrollo integral en poblaciones diversas",
+            "c": "Es inapropiada en la educación infantil",
+            "d": "Tiene efectos negativos en la interacción social"
+          }
+        },
+        {
+          "numero": 30,
+          "pregunta": "El papel del lenguaje en la mediación de actividades psicomotrices se fundamenta en:",
+          "opciones": {
+            "a": "Su capacidad para estructurar y simbolizar la experiencia",
+            "b": "Su irrelevancia en el movimiento",
+            "c": "La imposición de un discurso normativo",
+            "d": "La eliminación de la espontaneidad"
+          }
+        }
+      ],
+      "respuestas_correctas": {
+        "1": "d",
+        "2": "b",
+        "3": "c",
+        "4": "a",
+        "5": "b",
+        "6": "c",
+        "7": "b",
+        "8": "b",
+        "9": "b",
+        "10": "b",
+        "11": "a",
+        "12": "b",
+        "13": "b",
+        "14": "b",
+        "15": "b",
+        "16": "b",
+        "17": "c",
+        "18": "b",
+        "19": "b",
+        "20": "b",
+        "21": "a",
+        "22": "b",
+        "23": "b",
+        "24": "b",
+        "25": "b",
+        "26": "b",
+        "27": "a",
+        "28": "b",
+        "29": "b",
+        "30": "a"
+      },
+      "banco_explicaciones": {
+        "1": "Dupré introdujo el término 'psicomotricidad' en 1903 en Francia, relacionando anomalías motrices con alteraciones psíquicas (ver Tema 4 y García Núñez, 1994).",
+        "2": "El modelo relacional, defendido por Lapierre, se basa en el juego libre y la espontaneidad, fomentando la expresividad del niño.",
+        "3": "La literatura demuestra que la maduración motriz facilita la adquisición de habilidades cognitivas al integrar cuerpo y mente (Coste, 1979).",
+        "4": "Wallon aportó la integración de procesos motrices y afectivos, resaltando la importancia de las emociones en el movimiento.",
+        "5": "El esquema corporal es esencial para la identidad y representación del cuerpo, permitiendo una interacción eficaz con el entorno.",
+        "6": "El periodo 1950-actualidad en Francia fue clave para consolidar modelos diferenciados en psicomotricidad.",
+        "7": "El modelo relacional se fundamenta en la libertad del juego, favoreciendo la expresión emocional y motriz.",
+        "8": "La diferencia clave entre enfoques directivos y no directivos es la flexibilidad en la intervención, permitiendo adaptarse a las necesidades del alumno.",
+        "9": "Integrar la dimensión afectiva mediante la comunicación simbólica potencia el significado del movimiento.",
+        "10": "García Núñez destaca que el lenguaje es fundamental para mediar entre experiencia motriz y desarrollo cognitivo.",
+        "11": "La frase 'Mens sana in corpore sano' resume la idea de que el movimiento favorece un desarrollo integral.",
+        "12": "La cultura influye en la psicomotricidad al requerir la adaptación de actividades a contextos socio-culturales diversos.",
+        "13": "Una intervención integradora aborda todas las dimensiones del ser: motor, cognitivo, afectivo y simbólico.",
+        "14": "El educador debe facilitar la exploración y el juego, creando un ambiente de confianza que favorezca el aprendizaje.",
+        "15": "Una planificación efectiva contempla la diversidad de procesos (físico, cognitivo, afectivo) y contextos.",
+        "16": "La seguridad afectiva favorece la exploración y el aprendizaje, siendo crucial en la intervención psicomotriz.",
+        "17": "El contraste entre el modelo instrumental y el relacional resalta diferencias en la metodología y objetivos de la intervención.",
+        "18": "El aprendizaje significativo se produce al conectar nuevas experiencias con conocimientos previos, principio fundamental del constructivismo.",
+        "19": "La utilización de recursos didácticos variados permite adaptar las actividades a las necesidades individuales del alumno.",
+        "20": "La expresión creativa a través del movimiento evidencia la interrelación entre lo motor y lo simbólico.",
+        "21": "Estudios empíricos muestran que intervenciones bien estructuradas mejoran la coordinación y la resolución de problemas.",
+        "22": "La evaluación continua permite ajustar estrategias en función de los progresos del alumno, garantizando la flexibilidad de la intervención.",
+        "23": "La colaboración entre familia, profesorado y especialistas es esencial para una intervención integral en educación infantil.",
+        "24": "El juego libre permite la exploración sin restricciones, potenciando la creatividad y la innovación en el aprendizaje.",
+        "25": "La interpretación del movimiento varía según el contexto cultural, enriqueciendo las expresiones simbólicas.",
+        "26": "El análisis de casos prácticos permite comprender la variabilidad y contextualizar las intervenciones, aportando rigor metodológico.",
+        "27": "El feedback inmediato es esencial para corregir y adaptar estrategias en tiempo real, potenciando el aprendizaje motriz.",
+        "28": "La integración de metodologías cualitativas y cuantitativas es clave para abordar la complejidad de la psicomotricidad.",
+        "29": "La aplicación de la psicomotricidad en contextos no terapéuticos amplía su alcance y contribuye al desarrollo integral en diversos entornos.",
+        "30": "El lenguaje estructura y simboliza la experiencia, facilitando la mediación de actividades y promoviendo la comprensión del movimiento."
+      }
+    },
+    {
+      "titulo": "Examen 2: Educación Sensoriomotora y Cognitiva",
+      "preguntas": [
+        {
+          "numero": 1,
+          "pregunta": "¿Por qué es fundamental la estimulación sensorial en la educación infantil?",
+          "opciones": {
+            "a": "Mejora únicamente la coordinación motriz",
+            "b": "Favorece el desarrollo integral a nivel cognitivo y afectivo",
+            "c": "Es relevante solo en edades tempranas",
+            "d": "No tiene impacto significativo"
+          }
+        },
+        {
+          "numero": 2,
+          "pregunta": "La planificación en intervenciones sensoriomotoras debe basarse en:",
+          "opciones": {
+            "a": "Un programa estático",
+            "b": "La flexibilidad y adaptación al nivel madurativo",
+            "c": "La replicación de modelos preestablecidos",
+            "d": "La exclusión de actividades lúdicas"
+          }
+        },
+        {
+          "numero": 3,
+          "pregunta": "El desarrollo cognitivo en la infancia se potencia mediante la estimulación sensorial al:",
+          "opciones": {
+            "a": "Incrementar la memorización mecánica",
+            "b": "Favorecer la conexión entre sentidos y aprendizaje",
+            "c": "Reducir la variabilidad de respuestas",
+            "d": "Centralizar el proceso educativo"
+          }
+        },
+        {
+          "numero": 4,
+          "pregunta": "Para trabajar el sentido auditivo en niños de 0 a 2 años, es recomendable:",
+          "opciones": {
+            "a": "Utilizar música estructurada y sonidos ambientales",
+            "b": "Limitar la exposición a ruidos",
+            "c": "Emplear exclusivamente grabaciones",
+            "d": "Centrarse en la instrucción verbal"
+          }
+        },
+        {
+          "numero": 5,
+          "pregunta": "La intervención individualizada en la educación sensorial se justifica porque:",
+          "opciones": {
+            "a": "Todos los niños aprenden de la misma forma",
+            "b": "Permite atender las necesidades y ritmos individuales",
+            "c": "Es más fácil de implementar",
+            "d": "Evita la participación colectiva"
+          }
+        },
+        {
+          "numero": 6,
+          "pregunta": "Estudios recientes respaldan que las actividades multisensoriales:",
+          "opciones": {
+            "a": "Son excesivamente complejas",
+            "b": "Favorecen la integración de habilidades cognitivas y sensoriales",
+            "c": "Resultan redundantes",
+            "d": "Reducen la atención"
+          }
+        },
+        {
+          "numero": 7,
+          "pregunta": "La intervención táctil en la diferenciación de texturas es importante porque:",
+          "opciones": {
+            "a": "Estimula la discriminación sensorial",
+            "b": "Limita la exploración",
+            "c": "Es irrelevante para el aprendizaje",
+            "d": "Solo favorece el aspecto motor"
+          }
+        },
+        {
+          "numero": 8,
+          "pregunta": "La música en el aula contribuye al desarrollo auditivo al:",
+          "opciones": {
+            "a": "Generar ruido de fondo",
+            "b": "Facilitar la concentración y reconocimiento de patrones sonoros",
+            "c": "Distraer la atención",
+            "d": "Inhibir la expresión verbal"
+          }
+        },
+        {
+          "numero": 9,
+          "pregunta": "La experiencia vivencial en la educación sensoriomotora se caracteriza por:",
+          "opciones": {
+            "a": "La pasividad del alumno",
+            "b": "La participación activa y exploratoria",
+            "c": "La repetición de rutinas",
+            "d": "La ausencia de interacción"
+          }
+        },
+        {
+          "numero": 10,
+          "pregunta": "Respetar el nivel madurativo en actividades sensoriales es crucial para evitar:",
+          "opciones": {
+            "a": "Sobreestimulación o frustración",
+            "b": "El aburrimiento",
+            "c": "El desinterés",
+            "d": "La competencia excesiva"
+          }
+        },
+        {
+          "numero": 11,
+          "pregunta": "La relación entre percepción visual y coordinación visomotora se manifiesta en:",
+          "opciones": {
+            "a": "La incapacidad para copiar dibujos",
+            "b": "La mejora en la reproducción de formas",
+            "c": "La desconexión entre lo visual y lo motor",
+            "d": "La ausencia de influencia mutua"
+          }
+        },
+        {
+          "numero": 12,
+          "pregunta": "La metodología participativa en el aula sensorial se fundamenta en:",
+          "opciones": {
+            "a": "La instrucción unidireccional",
+            "b": "El aprendizaje colaborativo y la construcción conjunta del conocimiento",
+            "c": "La evaluación sumativa",
+            "d": "La competitividad entre alumnos"
+          }
+        },
+        {
+          "numero": 13,
+          "pregunta": "Para fomentar la exploración del entorno en la infancia, es recomendable:",
+          "opciones": {
+            "a": "Limitar las experiencias",
+            "b": "Diseñar actividades de campo y observación",
+            "c": "Centrarse exclusivamente en el aula",
+            "d": "Evitar la movilidad"
+          }
+        },
+        {
+          "numero": 14,
+          "pregunta": "La integración de conceptos espaciales como 'derecha e izquierda' se puede promover mediante:",
+          "opciones": {
+            "a": "Ejercicios de memorización",
+            "b": "Actividades de orientación espacial y juegos de roles",
+            "c": "La repetición de instrucciones",
+            "d": "El uso exclusivo de la pizarra"
+          }
+        },
+        {
+          "numero": 15,
+          "pregunta": "El uso de recursos didácticos variados en la educación sensorial permite:",
+          "opciones": {
+            "a": "Una mayor diversidad de experiencias",
+            "b": "La uniformidad en el aprendizaje",
+            "c": "La limitación de la creatividad",
+            "d": "La sobreestimulación"
+          }
+        },
+        {
+          "numero": 16,
+          "pregunta": "La intervención sensoriomotora influye en el rendimiento escolar al:",
+          "opciones": {
+            "a": "Mejorar la atención y la integración de la información",
+            "b": "Aumentar el ritmo de actividad sin calidad",
+            "c": "Fomentar la competencia desmedida",
+            "d": "Reducir el tiempo de descanso"
+          }
+        },
+        {
+          "numero": 17,
+          "pregunta": "La observación como herramienta para adecuar actividades sensoriales se basa en:",
+          "opciones": {
+            "a": "La evaluación estática",
+            "b": "La recogida de datos en tiempo real para ajustar la intervención",
+            "c": "La comparación con modelos preestablecidos",
+            "d": "La exclusión de la retroalimentación"
+          }
+        },
+        {
+          "numero": 18,
+          "pregunta": "La metodología más efectiva para integrar estimulación sensorial y cognitiva es:",
+          "opciones": {
+            "a": "La instrucción directa",
+            "b": "La metodología activa y participativa",
+            "c": "La repetición mecánica",
+            "d": "El aprendizaje individual aislado"
+          }
+        },
+        {
+          "numero": 19,
+          "pregunta": "El desarrollo del lenguaje se enriquece con experiencias sensoriales al:",
+          "opciones": {
+            "a": "Promover la asociación entre palabras y experiencias",
+            "b": "Limitar la expresión oral",
+            "c": "Enfatizar la memorización sin contexto",
+            "d": "Reducir la interacción social"
+          }
+        },
+        {
+          "numero": 20,
+          "pregunta": "Para evaluar la eficacia de una intervención sensorial se deben analizar indicadores como:",
+          "opciones": {
+            "a": "El número de actividades realizadas",
+            "b": "La mejora en habilidades perceptuales y cognitivas",
+            "c": "La asistencia a clase",
+            "d": "La cantidad de recursos utilizados"
+          }
+        },
+        {
+          "numero": 21,
+          "pregunta": "El juego desempeña un papel central en la construcción de habilidades cognitivas y sensoriales porque:",
+          "opciones": {
+            "a": "Limita la creatividad",
+            "b": "Estimula la interacción y la experimentación",
+            "c": "Fomenta la competencia desmedida",
+            "d": "Aísla al niño de su entorno"
+          }
+        },
+        {
+          "numero": 22,
+          "pregunta": "La diferencia principal entre intervención colectiva e individualizada en el aula sensorial es:",
+          "opciones": {
+            "a": "La estructura de las actividades",
+            "b": "La atención a las necesidades individuales",
+            "c": "La duración de la actividad",
+            "d": "El uso de materiales didácticos"
+          }
+        },
+        {
+          "numero": 23,
+          "pregunta": "Una intervención sensorial no adaptada al nivel de desarrollo puede provocar:",
+          "opciones": {
+            "a": "Sobreestimulación o frustración",
+            "b": "Avance sin dificultades",
+            "c": "Incremento de la motivación",
+            "d": "Aprendizaje colaborativo"
+          }
+        },
+        {
+          "numero": 24,
+          "pregunta": "Las actividades sensoriales combinadas con contenidos curriculares tradicionales permiten:",
+          "opciones": {
+            "a": "Romper la rutina",
+            "b": "Integrar el aprendizaje de forma holística",
+            "c": "Aumentar el tiempo libre",
+            "d": "Reducir la evaluación formativa"
+          }
+        },
+        {
+          "numero": 25,
+          "pregunta": "La evaluación continua en el proceso de aprendizaje sensoriomotor es crucial para:",
+          "opciones": {
+            "a": "Medir solo resultados finales",
+            "b": "Realizar ajustes y mejoras en tiempo real",
+            "c": "Estandarizar la información",
+            "d": "Limitar la creatividad"
+          }
+        },
+        {
+          "numero": 26,
+          "pregunta": "La integración de la información sensorial en la programación educativa es crucial porque:",
+          "opciones": {
+            "a": "Simplifica la planificación",
+            "b": "Enriquece el proceso de aprendizaje con experiencias significativas",
+            "c": "Se basa en metodologías arcaicas",
+            "d": "Desvía la atención del alumno"
+          }
+        },
+        {
+          "numero": 27,
+          "pregunta": "Las experiencias multisensoriales potencian la memoria visual al:",
+          "opciones": {
+            "a": "Sobrecargar el sistema",
+            "b": "Establecer conexiones más duraderas",
+            "c": "Afectar negativamente la atención",
+            "d": "Reducir la capacidad de discriminación"
+          }
+        },
+        {
+          "numero": 28,
+          "pregunta": "La estimulación auditiva tiene un efecto directo en el desarrollo del lenguaje al:",
+          "opciones": {
+            "a": "Generar confusión",
+            "b": "Facilitar la discriminación de sonidos y la construcción de vocabulario",
+            "c": "Inhibir la expresión oral",
+            "d": "No influir en absoluto"
+          }
+        },
+        {
+          "numero": 29,
+          "pregunta": "La experiencia en el aula que promueve la competencia sensorial se logra mediante:",
+          "opciones": {
+            "a": "Actividades pasivas",
+            "b": "La interacción directa con el entorno",
+            "c": "El aprendizaje exclusivamente teórico",
+            "d": "La reducción de estímulos"
+          }
+        },
+        {
+          "numero": 30,
+          "pregunta": "La dimensión afectiva en la educación sensoriomotora se integra mediante:",
+          "opciones": {
+            "a": "La neutralidad emocional",
+            "b": "La creación de ambientes de confianza y estimulación",
+            "c": "La eliminación de actividades lúdicas",
+            "d": "La estructuración rígida de tareas"
+          }
+        }
+      ],
+      "respuestas_correctas": {
+        "1": "b",
+        "2": "b",
+        "3": "b",
+        "4": "a",
+        "5": "b",
+        "6": "b",
+        "7": "a",
+        "8": "b",
+        "9": "b",
+        "10": "a",
+        "11": "b",
+        "12": "b",
+        "13": "b",
+        "14": "b",
+        "15": "a",
+        "16": "a",
+        "17": "b",
+        "18": "b",
+        "19": "a",
+        "20": "b",
+        "21": "b",
+        "22": "b",
+        "23": "a",
+        "24": "b",
+        "25": "b",
+        "26": "b",
+        "27": "b",
+        "28": "b",
+        "29": "b",
+        "30": "b"
+      },
+      "banco_explicaciones": {
+        "1": "La estimulación sensorial activa múltiples canales sensoriales y favorece el desarrollo integral (cognitivo, afectivo y motor), lo que es esencial en la educación infantil.",
+        "2": "Una planificación flexible permite adaptar las actividades al nivel madurativo de cada niño, evitando sobreestimulación o frustración.",
+        "3": "La integración de estímulos sensoriales favorece la conexión entre percepciones y aprendizaje, potenciando procesos cognitivos.",
+        "4": "La combinación de música estructurada y sonidos ambientales estimula el sentido auditivo y mejora la discriminación sonora.",
+        "5": "Atender de forma individualizada reconoce los ritmos y necesidades específicas de cada niño, clave para un aprendizaje efectivo.",
+        "6": "Estudios recientes confirman que las actividades multisensoriales integran diversas habilidades y promueven la sinergia entre sentidos y cognición.",
+        "7": "La estimulación táctil ayuda a discriminar texturas, un aspecto esencial para el desarrollo de la percepción sensorial.",
+        "8": "La música favorece la concentración y el reconocimiento de patrones sonoros, fortaleciendo la memoria auditiva.",
+        "9": "La participación activa y exploratoria permite que el alumno se involucre de forma significativa en su proceso de aprendizaje.",
+        "10": "Adaptar la actividad al nivel madurativo previene la sobreestimulación y la frustración, manteniendo al niño en su zona de desarrollo próximo.",
+        "11": "La coordinación visomotora mejora cuando se practica la reproducción de formas, evidenciando la conexión entre percepción visual y movimiento.",
+        "12": "El aprendizaje colaborativo y la construcción conjunta fomentan la participación y el sentido crítico, pilares del enfoque participativo.",
+        "13": "Actividades de campo y observación enriquecen la experiencia y permiten la exploración del entorno, favoreciendo el aprendizaje contextual.",
+        "14": "Las actividades de orientación y juegos de roles facilitan la comprensión de conceptos espaciales como 'derecha e izquierda'.",
+        "15": "El uso de recursos didácticos variados enriquece la experiencia sensorial y promueve la creatividad en el aprendizaje.",
+        "16": "La mejora en la atención y en la integración de la información se ha correlacionado con intervenciones sensoriomotoras bien diseñadas.",
+        "17": "La observación en tiempo real permite ajustar la intervención según las respuestas inmediatas del niño, mejorando la efectividad.",
+        "18": "La metodología activa y participativa integra de forma óptima la estimulación sensorial y el aprendizaje cognitivo, siguiendo enfoques constructivistas.",
+        "19": "Asociar experiencias sensoriales con palabras enriquece el vocabulario y la comprensión del lenguaje, tal como proponen Vygotsky y otros estudios recientes.",
+        "20": "Mejoras en habilidades perceptuales y cognitivas son indicadores directos de la eficacia de la intervención sensorial.",
+        "21": "El juego fomenta la experimentación y la interacción, esenciales para el desarrollo de competencias cognitivas y sensoriales.",
+        "22": "La atención a las necesidades individuales es la diferencia principal entre intervenciones colectivas e individualizadas.",
+        "23": "Una intervención no adaptada puede causar sobreestimulación y frustración, afectando negativamente el aprendizaje.",
+        "24": "Integrar contenidos curriculares con actividades sensoriales genera un aprendizaje holístico, rompiendo la rigidez de la enseñanza tradicional.",
+        "25": "La evaluación continua permite realizar ajustes en tiempo real y mejorar el proceso de enseñanza-aprendizaje.",
+        "26": "Integrar información sensorial en la programación enriquece la experiencia educativa, aportando relevancia y significado.",
+        "27": "Las experiencias multisensoriales refuerzan la memoria visual al crear conexiones más duraderas entre estímulos y recuerdos.",
+        "28": "La estimulación auditiva facilita la discriminación de sonidos y la formación de vocabulario, contribuyendo al desarrollo lingüístico.",
+        "29": "La interacción directa con el entorno en el aula promueve la competencia sensorial, a diferencia de actividades pasivas.",
+        "30": "Crear ambientes de confianza y estímulo integra la dimensión afectiva, esencial para un aprendizaje motivador y significativo."
+      }
+    },
+    {
+      "titulo": "Examen 3: Evaluación de la Intervención Educativa",
+      "preguntas": [
+        {
+          "numero": 1,
+          "pregunta": "¿Cuál es el objetivo primordial de la evaluación en la intervención educativa en la escuela infantil?",
+          "opciones": {
+            "a": "Seleccionar alumnos",
+            "b": "Ajustar la intervención a las necesidades del alumno",
+            "c": "Clasificar a los niños",
+            "d": "Establecer un ranking"
+          }
+        },
+        {
+          "numero": 2,
+          "pregunta": "¿Cuál de los siguientes procesos NO es propio de la evaluación en educación infantil?",
+          "opciones": {
+            "a": "Evaluación formativa",
+            "b": "Procesos de selección",
+            "c": "Evaluación continua",
+            "d": "Evaluación inicial"
+          }
+        },
+        {
+          "numero": 3,
+          "pregunta": "La evaluación continua permite:",
+          "opciones": {
+            "a": "Registrar el progreso y ajustar estrategias",
+            "b": "Realizar una evaluación final únicamente",
+            "c": "Ignorar el feedback",
+            "d": "Aplicar métodos estáticos"
+          }
+        },
+        {
+          "numero": 4,
+          "pregunta": "La evaluación inicial se orienta a:",
+          "opciones": {
+            "a": "Conocer las capacidades previas del alumno",
+            "b": "Calificar con una nota",
+            "c": "Seleccionar alumnos",
+            "d": "Evaluar exclusivamente el rendimiento motor"
+          }
+        },
+        {
+          "numero": 5,
+          "pregunta": "La retroalimentación en los procesos evaluativos es fundamental para:",
+          "opciones": {
+            "a": "Penalizar errores",
+            "b": "Ajustar la intervención en tiempo real",
+            "c": "Reforzar la evaluación sumativa",
+            "d": "Evitar el cambio de estrategias"
+          }
+        },
+        {
+          "numero": 6,
+          "pregunta": "La técnica de evaluación basada en el registro escrito u oral sin estructura previa es:",
+          "opciones": {
+            "a": "Entrevista estructurada",
+            "b": "Registro narrativo",
+            "c": "Lista de control",
+            "d": "Escala de estimación"
+          }
+        },
+        {
+          "numero": 7,
+          "pregunta": "La principal ventaja de las listas de control en la evaluación observacional es:",
+          "opciones": {
+            "a": "La cuantificación de conductas",
+            "b": "La flexibilidad en la observación",
+            "c": "La facilidad para registrar la presencia o ausencia de conductas",
+            "d": "La capacidad de generar narrativas"
+          }
+        },
+        {
+          "numero": 8,
+          "pregunta": "Las escalas de estimación permiten:",
+          "opciones": {
+            "a": "Medir la intensidad de conductas",
+            "b": "Solo registrar la presencia de conductas",
+            "c": "Clasificar conductas en narrativas",
+            "d": "Realizar entrevistas"
+          }
+        },
+        {
+          "numero": 9,
+          "pregunta": "El test del Desarrollo de la Integración Visomotora se utiliza para evaluar:",
+          "opciones": {
+            "a": "Habilidades cognitivas exclusivamente",
+            "b": "Coordinación visomotora",
+            "c": "Capacidad de memoria",
+            "d": "Desarrollo afectivo"
+          }
+        },
+        {
+          "numero": 10,
+          "pregunta": "La estandarización de instrumentos en evaluación se garantiza mediante:",
+          "opciones": {
+            "a": "Protocolos y manuales de aplicación",
+            "b": "La improvisación",
+            "c": "La variabilidad en la aplicación",
+            "d": "La adaptación libre del evaluador"
+          }
+        },
+        {
+          "numero": 11,
+          "pregunta": "La observación participante se caracteriza por:",
+          "opciones": {
+            "a": "La total no intervención del observador",
+            "b": "La integración activa del observador en la situación",
+            "c": "La evaluación desde la distancia",
+            "d": "La ausencia de registro"
+          }
+        },
+        {
+          "numero": 12,
+          "pregunta": "El uso de entrevistas estructuradas en evaluación permite:",
+          "opciones": {
+            "a": "Recoger datos no comparables",
+            "b": "Obtener información sistemática y comparable",
+            "c": "Flexibilizar sin guión",
+            "d": "Evitar el registro de información contextual"
+          }
+        },
+        {
+          "numero": 13,
+          "pregunta": "Una de las limitaciones de la entrevista como técnica evaluativa es:",
+          "opciones": {
+            "a": "La rapidez en la obtención de información",
+            "b": "La dificultad para establecer niveles de calidad",
+            "c": "Su alta estandarización",
+            "d": "La facilidad de aplicación"
+          }
+        },
+        {
+          "numero": 14,
+          "pregunta": "La combinación de métodos evaluativos permite:",
+          "opciones": {
+            "a": "Unificar todas las respuestas",
+            "b": "Contrastar y enriquecer la información recogida",
+            "c": "Aumentar la carga de trabajo",
+            "d": "Generar inconsistencias"
+          }
+        },
+        {
+          "numero": 15,
+          "pregunta": "La evaluación final se orienta a:",
+          "opciones": {
+            "a": "Medir el grado de asimilación de contenidos",
+            "b": "Establecer procesos de selección",
+            "c": "Ignorar el proceso previo",
+            "d": "Reemplazar la evaluación continua"
+          }
+        },
+        {
+          "numero": 16,
+          "pregunta": "La validación de instrumentos estandarizados implica:",
+          "opciones": {
+            "a": "La verificación de sus propiedades métricas",
+            "b": "Su aplicación libre",
+            "c": "La eliminación de la comparabilidad",
+            "d": "La modificación constante"
+          }
+        },
+        {
+          "numero": 17,
+          "pregunta": "El registro narrativo es especialmente útil en:",
+          "opciones": {
+            "a": "La evaluación exploratoria de conductas",
+            "b": "La cuantificación exacta de datos",
+            "c": "La aplicación de escalas",
+            "d": "La estructuración de listas"
+          }
+        },
+        {
+          "numero": 18,
+          "pregunta": "El análisis de la información evaluativa debe considerar:",
+          "opciones": {
+            "a": "Solo aspectos motores",
+            "b": "Dimensiones motoras, cognitivas, afectivas y sociales",
+            "c": "Exclusivamente datos cuantitativos",
+            "d": "Solo la opinión del evaluador"
+          }
+        },
+        {
+          "numero": 19,
+          "pregunta": "El rol de la familia en el proceso evaluativo se fundamenta en:",
+          "opciones": {
+            "a": "La exclusión del entorno escolar",
+            "b": "La colaboración para complementar la información",
+            "c": "La ausencia de participación",
+            "d": "La evaluación unidireccional"
+          }
+        },
+        {
+          "numero": 20,
+          "pregunta": "La integración de la tecnología en la evaluación educativa:",
+          "opciones": {
+            "a": "Facilita la recogida y análisis de datos",
+            "b": "Complica la evaluación",
+            "c": "Es innecesaria",
+            "d": "Sustituye al evaluador"
+          }
+        },
+        {
+          "numero": 21,
+          "pregunta": "La documentación de la intervención se realiza mediante:",
+          "opciones": {
+            "a": "Registros breves",
+            "b": "Informes detallados y sistemáticos",
+            "c": "Observaciones casuales",
+            "d": "Notas informales"
+          }
+        },
+        {
+          "numero": 22,
+          "pregunta": "La triangulación de datos en evaluación es esencial para:",
+          "opciones": {
+            "a": "Aumentar la incertidumbre",
+            "b": "Corroborar la información recogida",
+            "c": "Disminuir la participación",
+            "d": "Facilitar la comparación con otros ámbitos"
+          }
+        },
+        {
+          "numero": 23,
+          "pregunta": "La función principal de la evaluación formativa es:",
+          "opciones": {
+            "a": "Clasificar al alumno",
+            "b": "Retroalimentar y orientar la intervención",
+            "c": "Concluir el proceso educativo",
+            "d": "Generar informes finales"
+          }
+        },
+        {
+          "numero": 24,
+          "pregunta": "Los instrumentos estandarizados permiten comparaciones entre sujetos a través de:",
+          "opciones": {
+            "a": "Normas de aplicación y puntuación",
+            "b": "La improvisación del evaluador",
+            "c": "Informes subjetivos",
+            "d": "Observaciones no estructuradas"
+          }
+        },
+        {
+          "numero": 25,
+          "pregunta": "La aplicación de cuestionarios en evaluación se beneficia de:",
+          "opciones": {
+            "a": "La estandarización y validación previa",
+            "b": "La improvisación",
+            "c": "La adaptación inconstante",
+            "d": "La falta de protocolos"
+          }
+        },
+        {
+          "numero": 26,
+          "pregunta": "La observación en situaciones naturales es ventajosa porque:",
+          "opciones": {
+            "a": "Refleja conductas en un contexto real",
+            "b": "Es más difícil de registrar",
+            "c": "Carece de validez",
+            "d": "No aporta información relevante"
+          }
+        },
+        {
+          "numero": 27,
+          "pregunta": "La recolección de datos cualitativos en evaluación se fundamenta en:",
+          "opciones": {
+            "a": "Informes numéricos",
+            "b": "Descripciones ricas y contextualizadas",
+            "c": "Listas de control exclusivas",
+            "d": "Escalas sin narrativa"
+          }
+        },
+        {
+          "numero": 28,
+          "pregunta": "El uso de escalas de estimación cuantifica:",
+          "opciones": {
+            "a": "La ocurrencia de conductas",
+            "b": "El grado de manifestación de conductas",
+            "c": "La presencia o ausencia",
+            "d": "La calidad narrativa"
+          }
+        },
+        {
+          "numero": 29,
+          "pregunta": "La adaptabilidad de los instrumentos evaluativos es crucial para:",
+          "opciones": {
+            "a": "Ajustarse a la diversidad del alumnado",
+            "b": "Estandarizar sin considerar diferencias",
+            "c": "Reducir la flexibilidad",
+            "d": "Aplicar un método único"
+          }
+        },
+        {
+          "numero": 30,
+          "pregunta": "La evaluación de la intervención debe:",
+          "opciones": {
+            "a": "Permanecer aislada del proceso",
+            "b": "Servir de base para el rediseño y mejora de estrategias",
+            "c": "Concluir el proceso educativo",
+            "d": "Solo medir resultados cuantitativos"
+          }
+        }
+      ],
+      "respuestas_correctas": {
+        "1": "b",
+        "2": "b",
+        "3": "a",
+        "4": "a",
+        "5": "b",
+        "6": "b",
+        "7": "c",
+        "8": "a",
+        "9": "b",
+        "10": "a",
+        "11": "b",
+        "12": "b",
+        "13": "b",
+        "14": "b",
+        "15": "a",
+        "16": "a",
+        "17": "a",
+        "18": "b",
+        "19": "b",
+        "20": "a",
+        "21": "b",
+        "22": "b",
+        "23": "b",
+        "24": "a",
+        "25": "a",
+        "26": "a",
+        "27": "b",
+        "28": "b",
+        "29": "a",
+        "30": "b"
+      },
+      "banco_explicaciones": {
+        "1": "El objetivo principal es ajustar la intervención educativa a las necesidades reales de cada alumno, promoviendo aprendizajes significativos (Tema 6).",
+        "2": "En educación infantil no se realizan procesos de selección, ya que la evaluación busca informar y mejorar la intervención.",
+        "3": "La evaluación continua registra el progreso y permite ajustar estrategias de forma dinámica.",
+        "4": "La evaluación inicial se orienta a conocer las capacidades y experiencias previas del alumno para construir nuevos aprendizajes (Cubero, 1989).",
+        "5": "La retroalimentación permite corregir errores en tiempo real y ajustar la intervención, mejorando el proceso educativo (Edelbrock y Costello, 1988).",
+        "6": "El registro narrativo es una técnica abierta que recoge descripciones libres de la conducta observada.",
+        "7": "Las listas de control facilitan registrar de manera sencilla la presencia o ausencia de conductas específicas.",
+        "8": "Las escalas de estimación permiten medir la intensidad o grado de manifestación de conductas evaluadas.",
+        "9": "El test del Desarrollo de la Integración Visomotora evalúa específicamente la coordinación entre percepción visual y movimiento.",
+        "10": "La estandarización se logra mediante protocolos y manuales que aseguran la comparabilidad de resultados.",
+        "11": "La observación participante implica que el evaluador se integre activamente en la situación, lo que enriquece la información.",
+        "12": "Las entrevistas estructuradas facilitan obtener información sistemática y comparable entre diferentes evaluados.",
+        "13": "Una limitación de la entrevista es la dificultad para calibrar la calidad de la información obtenida.",
+        "14": "Combinar métodos evaluativos (triangulación) permite contrastar datos y obtener una visión más completa.",
+        "15": "La evaluación final mide el grado de asimilación de contenidos y sirve como punto de partida para nuevos aprendizajes.",
+        "16": "La validación de instrumentos requiere verificar sus propiedades métricas para garantizar fiabilidad y validez.",
+        "17": "El registro narrativo es muy útil en la fase exploratoria para obtener descripciones ricas y contextuales.",
+        "18": "Una evaluación integral debe considerar dimensiones motoras, cognitivas, afectivas y sociales.",
+        "19": "La colaboración familiar aporta información complementaria sobre el comportamiento del niño en diferentes contextos.",
+        "20": "La tecnología mejora la recolección y análisis de datos, aumentando la precisión de la evaluación.",
+        "21": "Una documentación detallada y sistemática es esencial para dar seguimiento a la intervención educativa.",
+        "22": "La triangulación de datos permite corroborar la información y aumentar la validez de la evaluación.",
+        "23": "La evaluación formativa se centra en retroalimentar y orientar el proceso educativo de forma continua.",
+        "24": "El uso de normas y protocolos en instrumentos estandarizados posibilita comparaciones entre sujetos.",
+        "25": "Cuestionarios con validación previa aseguran rigor y consistencia en la información recogida.",
+        "26": "La observación en contextos naturales refleja de manera fidedigna las conductas del alumno en su entorno habitual.",
+        "27": "La recolección cualitativa se basa en obtener descripciones ricas que aporten profundidad y contexto.",
+        "28": "Las escalas cuantifican el grado de manifestación de conductas, permitiendo valorar su intensidad.",
+        "29": "La adaptabilidad de los instrumentos es crucial para evaluar la diversidad del alumnado y sus contextos.",
+        "30": "La evaluación debe servir de base para rediseñar y mejorar estrategias, impulsando la mejora continua de la intervención."
+      }
+    }
+  ]
+}
