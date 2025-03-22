@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Examen Interactivo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    .pregunta {
+      margin-bottom: 20px;
+    }
+    .opciones {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      background-color: #e0e0e0;
+      padding: 10px;
+    }
+    .opciones label {
+      margin: 0;
+    }
+    #resultado, #revisarErrores {
+      margin-top: 20px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <h1>Examen Interactivo</h1>
+
+  <!-- Sección para elegir el examen -->
+  <div id="examenSeleccion"></div>
+
+  <!-- Sección que contendrá el examen -->
+  <div id="contenidoExamen" style="display:none;"></div>
+
+  <!-- Sección para mostrar resultados -->
+  <div id="resultado"></div>
+
+  <!-- Sección para revisión de errores (opcional) -->
+  <div id="revisarErrores" style="display:none;"></div>
+
+  <script>
+      // URL RAW del archivo JSON con todos los exámenes
+  const urlExamenes = 'https://raw.githubusercontent.com/CursoAvampace/examenest4t5t6/main/examenes.json'; // Reemplaza con la URL correcta
+
+  let examenesData = null; // Array de exámenes
+  let examenActual = null; // El examen seleccionado
+
+  // Función para mostrar el listado de exámenes disponibles
+  function mostrarListadoExamenes() {
+    const div = document.getElementById("examenSeleccion");
+    div.innerHTML = "<h2>Seleccione un examen:</h2>";
+    examenesData.forEach(examen => {
+      const btn = document.createElement("button");
+      btn.textContent = examen.titulo;
+      btn.style.marginRight = "10px";
+      btn.addEventListener("click", () => cargarExamen(examen));
+      div.appendChild(btn);
+    });
+  }
+
+  // Función para cargar el examen seleccionado
+  function cargarExamen(examen) {
+    examenActual = examen; // Guarda el examen actual
+    mostrarExamen(examen);
+  }
+
+  // Función para mostrar el examen en pantalla
+  function mostrarExamen(examen) {
+    const contenedor = document.getElementById("contenidoExamen");
+    contenedor.style.display = "block";
+    contenedor.innerHTML = "";
+
+    if (!examen.preguntas) {
+      contenedor.innerHTML = "<p>Error: El examen no tiene la propiedad 'preguntas'.</p>";
+      console.error("El JSON del examen no tiene la propiedad 'preguntas'.");
+      return;
+    }
+
+    examen.preguntas.forEach(pregunta => {
+      const divPregunta = document.createElement("div");
+      divPregunta.className = "pregunta";
+      let html = `<strong>${pregunta.numero}. ${pregunta.pregunta}</strong><br>`;
+      html += `<div class="opciones">`;
+      for (let op in pregunta.opciones) {
+        html += `<label><input type="radio" name="pregunta${pregunta.numero}" value="${op}"> (${op}) ${pregunta.opciones[op]}</label>`;
+      }
+      html += `</div>`;
+      divPregunta.innerHTML = html;
+      contenedor.appendChild(divPregunta);
+    });
+
+    // Agregar botón para enviar el examen
+    const btnEnviar = document.createElement("button");
+    btnEnviar.textContent = "Enviar Examen";
+    btnEnviar.addEventListener("click", enviarExamen);
+    contenedor.appendChild(btnEnviar);
+  }
+
+  // Función para enviar el examen y mostrar resultados
+  function enviarExamen() {
+    if (!examenActual) return;
+    let total = examenActual.preguntas.length;
+    let correctas = 0;
+    let htmlResultados = "<h2>Resultados</h2>";
+
+    examenActual.preguntas.forEach(pregunta => {
+      const respuestaCorrecta = examenActual.respuestas_correctas[pregunta.numero];
+      const explicacionText = examenActual.banco_explicaciones[pregunta.numero] || "Explicación no disponible.";
+      const respuestaElem = document.querySelector(`input[name="pregunta${pregunta.numero}"]:checked`);
+      const respuestaUsuario = respuestaElem ? respuestaElem.value : "No respondida";
+        const respuestaUsuarioTexto = pregunta.opciones[respuestaUsuario] || "No respondida"; // <--- NUEVO
+        const respuestaCorrectaTexto = pregunta.opciones[respuestaCorrecta] || "No Disponible"; // <--- NUEVO
+      const isCorrecta = (respuestaUsuario === respuestaCorrecta);
+
+      if (isCorrecta) correctas++;
+
+      htmlResultados += `<div>
+        <strong>Pregunta ${pregunta.numero}:</strong> ${pregunta.pregunta}<br>
+        <strong>Tu respuesta:</strong> (${respuestaUsuario}) ${respuestaUsuarioTexto}<br>
+        <strong>Respuesta correcta:</strong> (${respuestaCorrecta}) ${respuestaCorrectaTexto}<br>
+        <strong>Resultado:</strong> ${isCorrecta ? "<span style='color:green;'>Correcta</span>" : "<span style='color:red;'>Incorrecta</span>"}<br>
+        <strong>Explicación:</strong> ${explicacionText}
+      </div><hr>`;
+    });
+
+    htmlResultados = `<p>Has acertado ${correctas} de ${total} preguntas.</p>` + htmlResultados;
+    document.getElementById("resultado").innerHTML = htmlResultados;
+    document.getElementById("revisarErrores").style.display = "block";
+    document.getElementById("revisarErrores").innerHTML = "<h2>Revisión de Preguntas y Explicaciones</h2>" + htmlResultados;
+  }
+
+  // Cargar el archivo JSON con todos los exámenes
+  fetch(urlExamenes)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('No se pudo cargar el archivo de exámenes. Verifica la URL RAW.');
+      }
+      return response.json();
+    })
+    .then(data => {
+      examenesData = data.examenes; // Accede a la propiedad "examenes"
+      mostrarListadoExamenes();
+    })
+    .catch(error => {
+      document.body.innerHTML = '<p>Error al cargar los exámenes: ' + error.message + '</p>';
+    });
+  </script>
+</body>
+</html>
